@@ -6,7 +6,7 @@ public class Hello {
 		System.out.println("hello world!");
 		short numero = 128;
 		byte valor;
-		int numero;
+		
 
 	}
 
